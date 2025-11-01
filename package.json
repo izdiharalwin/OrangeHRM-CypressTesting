@@ -1,0 +1,15 @@
+{
+  "name": "quiz3",
+  "version": "1.0.0",
+  "description": "ini adalah testing cypress quiz 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alwin",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^15.5.0"
+  }
+}
